@@ -1,0 +1,15 @@
+apply plugin: 'java'
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+version = '1.0.0'
+
+group = 'com.fo'
+description = 'Custom JavaFX Controls'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
